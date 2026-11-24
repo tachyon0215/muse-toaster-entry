@@ -20,3 +20,7 @@ Three candidates were drafted and compared against the judge brief (a real toast
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+## A note on the writing
+
+The joke I kept coming back to was the appliance with self-esteem: a toaster that has clearly failed at the one job it has, and responds by rebranding the failure as art. Giving it a fault code first keeps it grounded as a real error message, and letting the smoke alarm deliver the verdict means the toaster never has to admit anything. Machines that argue back are funnier than machines that apologise.
